@@ -11,6 +11,7 @@ In this project, we delve into the application of data science within the realm 
 Before running this project, you should have the following setup:
 
 * Python 3.1 or higher installed on your system.
+* Ensure you have access to Jupyter (https://jupyter.org/)
 * Basic knowledge of Python programming.
 * Familiarity with baseball statistics would be beneficial.
 
